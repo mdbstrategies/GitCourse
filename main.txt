@@ -4,3 +4,8 @@ Make some changes...
 Let's see if we can pull...
 
 New additions from here and there are changes
+
+
+git add .
+git commit -m "MESSAGE DESCRIPTION"
+git push origin main
