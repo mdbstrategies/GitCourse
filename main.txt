@@ -1,8 +1,4 @@
 today, we are learning about github
 
-git remote add origin https://github.com/mdbstrategies/GitCourse.git
-git branch -M main
-git push -u origin main
-
 Make some changes... 
 Let's see if we can pull...
