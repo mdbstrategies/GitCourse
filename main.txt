@@ -9,3 +9,4 @@ New additions from here and there are changes
 git add .
 git commit -m "MESSAGE DESCRIPTION"
 git push origin main
+git pull origin main
