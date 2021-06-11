@@ -5,3 +5,11 @@ Git Command Instructions
 3 - Commit what you did ->                     git commit -m "MESSAGE DESCRIPTION"
 4 - Send to the remote repository ->           git push origin main
 5 - Request changes update local repository -> git pull origin main
+
+The popular versions are:
+Control version
+Development version
+Production version
+Main version
+Sandbox???
+Beta version
