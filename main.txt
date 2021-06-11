@@ -1,12 +1,7 @@
-today, we are learning about github
+Git Command Instructions
 
-Make some changes... 
-Let's see if we can pull...
-
-New additions from here and there are changes
-
-
-git add .
-git commit -m "MESSAGE DESCRIPTION"
-git push origin main
-git pull origin main
+1 - Save file
+2 - Add changed files to local repository ->   git add .
+3 - Commit what you did ->                     git commit -m "MESSAGE DESCRIPTION"
+4 - Send to the remote repository ->           git push origin main
+5 - Request changes update local repository -> git pull origin main
